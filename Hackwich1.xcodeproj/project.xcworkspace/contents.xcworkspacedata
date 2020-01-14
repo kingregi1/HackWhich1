@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:HackWhich1.xcodeproj">
+      location = "self:/Users/regiking/Desktop/HackWhich1/Hackwich1.xcodeproj">
    </FileRef>
 </Workspace>

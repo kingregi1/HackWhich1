@@ -35,7 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		4E00E20A23CE575700F37E89 /* HackWhich1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HackWhich1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4E00E20A23CE575700F37E89 /* Hackwich1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hackwich1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E00E20D23CE575700F37E89 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4E00E20F23CE575700F37E89 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		4E00E21123CE575700F37E89 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -43,10 +43,10 @@
 		4E00E21623CE575A00F37E89 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4E00E21923CE575A00F37E89 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4E00E21B23CE575A00F37E89 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4E00E22023CE575A00F37E89 /* HackWhich1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HackWhich1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4E00E22023CE575A00F37E89 /* Hackwich1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Hackwich1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E00E22423CE575A00F37E89 /* HackWhich1Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackWhich1Tests.swift; sourceTree = "<group>"; };
 		4E00E22623CE575A00F37E89 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4E00E22B23CE575A00F37E89 /* HackWhich1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HackWhich1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4E00E22B23CE575A00F37E89 /* Hackwich1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Hackwich1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E00E22F23CE575A00F37E89 /* HackWhich1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackWhich1UITests.swift; sourceTree = "<group>"; };
 		4E00E23123CE575A00F37E89 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -89,9 +89,9 @@
 		4E00E20B23CE575700F37E89 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4E00E20A23CE575700F37E89 /* HackWhich1.app */,
-				4E00E22023CE575A00F37E89 /* HackWhich1Tests.xctest */,
-				4E00E22B23CE575A00F37E89 /* HackWhich1UITests.xctest */,
+				4E00E20A23CE575700F37E89 /* Hackwich1.app */,
+				4E00E22023CE575A00F37E89 /* Hackwich1Tests.xctest */,
+				4E00E22B23CE575A00F37E89 /* Hackwich1UITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -139,9 +139,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4E00E20923CE575700F37E89 /* HackWhich1 */ = {
+		4E00E20923CE575700F37E89 /* Hackwich1 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4E00E23423CE575A00F37E89 /* Build configuration list for PBXNativeTarget "HackWhich1" */;
+			buildConfigurationList = 4E00E23423CE575A00F37E89 /* Build configuration list for PBXNativeTarget "Hackwich1" */;
 			buildPhases = (
 				4E00E20623CE575700F37E89 /* Sources */,
 				4E00E20723CE575700F37E89 /* Frameworks */,
@@ -151,14 +151,14 @@
 			);
 			dependencies = (
 			);
-			name = HackWhich1;
+			name = Hackwich1;
 			productName = HackWhich1;
-			productReference = 4E00E20A23CE575700F37E89 /* HackWhich1.app */;
+			productReference = 4E00E20A23CE575700F37E89 /* Hackwich1.app */;
 			productType = "com.apple.product-type.application";
 		};
-		4E00E21F23CE575A00F37E89 /* HackWhich1Tests */ = {
+		4E00E21F23CE575A00F37E89 /* Hackwich1Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4E00E23723CE575A00F37E89 /* Build configuration list for PBXNativeTarget "HackWhich1Tests" */;
+			buildConfigurationList = 4E00E23723CE575A00F37E89 /* Build configuration list for PBXNativeTarget "Hackwich1Tests" */;
 			buildPhases = (
 				4E00E21C23CE575A00F37E89 /* Sources */,
 				4E00E21D23CE575A00F37E89 /* Frameworks */,
@@ -169,14 +169,14 @@
 			dependencies = (
 				4E00E22223CE575A00F37E89 /* PBXTargetDependency */,
 			);
-			name = HackWhich1Tests;
+			name = Hackwich1Tests;
 			productName = HackWhich1Tests;
-			productReference = 4E00E22023CE575A00F37E89 /* HackWhich1Tests.xctest */;
+			productReference = 4E00E22023CE575A00F37E89 /* Hackwich1Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		4E00E22A23CE575A00F37E89 /* HackWhich1UITests */ = {
+		4E00E22A23CE575A00F37E89 /* Hackwich1UITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4E00E23A23CE575A00F37E89 /* Build configuration list for PBXNativeTarget "HackWhich1UITests" */;
+			buildConfigurationList = 4E00E23A23CE575A00F37E89 /* Build configuration list for PBXNativeTarget "Hackwich1UITests" */;
 			buildPhases = (
 				4E00E22723CE575A00F37E89 /* Sources */,
 				4E00E22823CE575A00F37E89 /* Frameworks */,
@@ -187,9 +187,9 @@
 			dependencies = (
 				4E00E22D23CE575A00F37E89 /* PBXTargetDependency */,
 			);
-			name = HackWhich1UITests;
+			name = Hackwich1UITests;
 			productName = HackWhich1UITests;
-			productReference = 4E00E22B23CE575A00F37E89 /* HackWhich1UITests.xctest */;
+			productReference = 4E00E22B23CE575A00F37E89 /* Hackwich1UITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -215,7 +215,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4E00E20523CE575600F37E89 /* Build configuration list for PBXProject "HackWhich1" */;
+			buildConfigurationList = 4E00E20523CE575600F37E89 /* Build configuration list for PBXProject "Hackwich1" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -228,9 +228,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4E00E20923CE575700F37E89 /* HackWhich1 */,
-				4E00E21F23CE575A00F37E89 /* HackWhich1Tests */,
-				4E00E22A23CE575A00F37E89 /* HackWhich1UITests */,
+				4E00E20923CE575700F37E89 /* Hackwich1 */,
+				4E00E21F23CE575A00F37E89 /* Hackwich1Tests */,
+				4E00E22A23CE575A00F37E89 /* Hackwich1UITests */,
 			);
 		};
 /* End PBXProject section */
@@ -294,12 +294,12 @@
 /* Begin PBXTargetDependency section */
 		4E00E22223CE575A00F37E89 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 4E00E20923CE575700F37E89 /* HackWhich1 */;
+			target = 4E00E20923CE575700F37E89 /* Hackwich1 */;
 			targetProxy = 4E00E22123CE575A00F37E89 /* PBXContainerItemProxy */;
 		};
 		4E00E22D23CE575A00F37E89 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 4E00E20923CE575700F37E89 /* HackWhich1 */;
+			target = 4E00E20923CE575700F37E89 /* Hackwich1 */;
 			targetProxy = 4E00E22C23CE575A00F37E89 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -485,7 +485,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HackWhich1.app/HackWhich1";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hackwich1.app/Hackwich1";
 			};
 			name = Debug;
 		};
@@ -506,7 +506,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HackWhich1.app/HackWhich1";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hackwich1.app/Hackwich1";
 			};
 			name = Release;
 		};
@@ -551,7 +551,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4E00E20523CE575600F37E89 /* Build configuration list for PBXProject "HackWhich1" */ = {
+		4E00E20523CE575600F37E89 /* Build configuration list for PBXProject "Hackwich1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4E00E23223CE575A00F37E89 /* Debug */,
@@ -560,7 +560,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4E00E23423CE575A00F37E89 /* Build configuration list for PBXNativeTarget "HackWhich1" */ = {
+		4E00E23423CE575A00F37E89 /* Build configuration list for PBXNativeTarget "Hackwich1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4E00E23523CE575A00F37E89 /* Debug */,
@@ -569,7 +569,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4E00E23723CE575A00F37E89 /* Build configuration list for PBXNativeTarget "HackWhich1Tests" */ = {
+		4E00E23723CE575A00F37E89 /* Build configuration list for PBXNativeTarget "Hackwich1Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4E00E23823CE575A00F37E89 /* Debug */,
@@ -578,7 +578,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4E00E23A23CE575A00F37E89 /* Build configuration list for PBXNativeTarget "HackWhich1UITests" */ = {
+		4E00E23A23CE575A00F37E89 /* Build configuration list for PBXNativeTarget "Hackwich1UITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4E00E23B23CE575A00F37E89 /* Debug */,
